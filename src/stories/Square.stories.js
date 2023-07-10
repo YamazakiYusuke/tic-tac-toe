@@ -28,6 +28,6 @@ SelectedByTriangle.args = {
   value: '△'
 }
 
-Template.prototype = {
+Template.propTypes = {
   value: PropTypes.oneOf(['', 'O', 'X', '△'])
 }

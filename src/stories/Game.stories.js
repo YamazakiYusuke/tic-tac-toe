@@ -1,5 +1,4 @@
 import Game from '../components/Game';
-import PropTypes from 'prop-types';
 
 export default {
   title: 'Game',
@@ -8,7 +7,4 @@ export default {
 
 const Template = args => <Game {...args} />
 
-export const Empty = Template.bind()
-Empty.args = {
-  value: ''
-}
+export const Default = Template.bind()
