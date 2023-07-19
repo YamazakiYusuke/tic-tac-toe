@@ -1,7 +1,7 @@
 import Square from './Square';
 import '../App.css';
 
-export default function Board({ xIsNext, squares, onPlay }) {
+function Board({ xIsNext, squares, onPlay }) {
 
   function handleClick(i) {
     if (squares[i] || calculateWinner(squares)) {
@@ -63,3 +63,5 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+export default Board;
