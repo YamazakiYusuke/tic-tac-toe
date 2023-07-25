@@ -233,7 +233,7 @@ Array [
   <div
     className="status"
   >
-    Next player: X
+    次のプレイヤー: X
   </div>,
   <div
     className="board-row"
@@ -309,7 +309,7 @@ Array [
   <div
     className="status"
   >
-    Next player: X
+    次のプレイヤー: X
   </div>,
   <div
     className="board-row"
@@ -367,7 +367,7 @@ Array [
   <div
     className="status"
   >
-    Next player: X
+    次のプレイヤー: X
   </div>,
   <div
     className="board-row"
@@ -443,7 +443,7 @@ Array [
   <div
     className="status"
   >
-    Next player: X
+    次のプレイヤー: X
   </div>,
   <div
     className="board-row"
@@ -519,7 +519,7 @@ Array [
   <div
     className="status"
   >
-    Next player: X
+    次のプレイヤー: X
   </div>,
   <div
     className="board-row"
@@ -600,7 +600,7 @@ exports[`Storyshots Game Default 1`] = `
     <div
       className="status"
     >
-      Next player: X
+      次のプレイヤー: X
     </div>
     <div
       className="board-row"
