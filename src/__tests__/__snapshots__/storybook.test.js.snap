@@ -4,6 +4,7 @@ exports[`Storyshots Board All Cross 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
     Winner: X
   </div>,
@@ -12,40 +13,21 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
-      onClick={[Function]}
-    >
-      X
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      X
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      X
-    </button>
-    <button
-      className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       X
@@ -56,18 +38,46 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-4"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       X
@@ -80,6 +90,7 @@ exports[`Storyshots Board All Round 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
     Winner: O
   </div>,
@@ -88,40 +99,21 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       O
@@ -132,18 +124,46 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-4"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      O
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       O
@@ -156,6 +176,7 @@ exports[`Storyshots Board All Triangle 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
     Winner: △
   </div>,
@@ -164,40 +185,21 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       △
@@ -208,18 +210,46 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-4"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      △
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       △
@@ -232,51 +262,33 @@ exports[`Storyshots Board Cross And Triangle 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
-    次のプレイヤー: X
+    Draw!
   </div>,
   <div
     className="board-row"
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       X
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      X
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      △
     </button>
   </div>,
   <div
@@ -284,18 +296,46 @@ Array [
   >
     <button
       className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-4"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      △
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       △
@@ -308,6 +348,7 @@ exports[`Storyshots Board Empty 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
     次のプレイヤー: X
   </div>,
@@ -316,30 +357,17 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     />
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     />
     <button
       className="square"
-      onClick={[Function]}
-    />
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    />
-    <button
-      className="square"
-      onClick={[Function]}
-    />
-    <button
-      className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     />
   </div>,
@@ -348,14 +376,36 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     />
     <button
       className="square"
+      data-e2e="square-4"
       onClick={[Function]}
     />
     <button
       className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    />
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     />
   </div>,
@@ -366,51 +416,33 @@ exports[`Storyshots Board Round And Cross 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
-    次のプレイヤー: X
+    Draw!
   </div>,
   <div
     className="board-row"
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       X
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      X
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
     </button>
   </div>,
   <div
@@ -418,18 +450,46 @@ Array [
   >
     <button
       className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-4"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      O
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       O
@@ -442,26 +502,30 @@ exports[`Storyshots Board Round And Cross And Triangle 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
-    次のプレイヤー: X
+    Draw!
   </div>,
   <div
     className="board-row"
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       O
@@ -472,18 +536,21 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-4"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-5"
       onClick={[Function]}
     >
       △
@@ -494,18 +561,21 @@ Array [
   >
     <button
       className="square"
+      data-e2e="square-6"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-7"
       onClick={[Function]}
     >
       X
     </button>
     <button
       className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       △
@@ -518,51 +588,33 @@ exports[`Storyshots Board Round And Triangle 1`] = `
 Array [
   <div
     className="status"
+    data-e2e="status"
   >
-    次のプレイヤー: X
+    Draw!
   </div>,
   <div
     className="board-row"
   >
     <button
       className="square"
+      data-e2e="square-0"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-1"
       onClick={[Function]}
     >
       O
     </button>
     <button
       className="square"
+      data-e2e="square-2"
       onClick={[Function]}
     >
       △
-    </button>
-  </div>,
-  <div
-    className="board-row"
-  >
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
-      onClick={[Function]}
-    >
-      O
     </button>
   </div>,
   <div
@@ -570,18 +622,46 @@ Array [
   >
     <button
       className="square"
-      onClick={[Function]}
-    >
-      O
-    </button>
-    <button
-      className="square"
+      data-e2e="square-3"
       onClick={[Function]}
     >
       △
     </button>
     <button
       className="square"
+      data-e2e="square-4"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-5"
+      onClick={[Function]}
+    >
+      O
+    </button>
+  </div>,
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-e2e="square-6"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-e2e="square-7"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square"
+      data-e2e="square-8"
       onClick={[Function]}
     >
       O
@@ -599,6 +679,7 @@ exports[`Storyshots Game Default 1`] = `
   >
     <div
       className="status"
+      data-e2e="status"
     >
       次のプレイヤー: X
     </div>
@@ -607,30 +688,17 @@ exports[`Storyshots Game Default 1`] = `
     >
       <button
         className="square"
+        data-e2e="square-0"
         onClick={[Function]}
       />
       <button
         className="square"
+        data-e2e="square-1"
         onClick={[Function]}
       />
       <button
         className="square"
-        onClick={[Function]}
-      />
-    </div>
-    <div
-      className="board-row"
-    >
-      <button
-        className="square"
-        onClick={[Function]}
-      />
-      <button
-        className="square"
-        onClick={[Function]}
-      />
-      <button
-        className="square"
+        data-e2e="square-2"
         onClick={[Function]}
       />
     </div>
@@ -639,14 +707,36 @@ exports[`Storyshots Game Default 1`] = `
     >
       <button
         className="square"
+        data-e2e="square-3"
         onClick={[Function]}
       />
       <button
         className="square"
+        data-e2e="square-4"
         onClick={[Function]}
       />
       <button
         className="square"
+        data-e2e="square-5"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="board-row"
+    >
+      <button
+        className="square"
+        data-e2e="square-6"
+        onClick={[Function]}
+      />
+      <button
+        className="square"
+        data-e2e="square-7"
+        onClick={[Function]}
+      />
+      <button
+        className="square"
+        data-e2e="square-8"
         onClick={[Function]}
       />
     </div>
@@ -670,12 +760,14 @@ exports[`Storyshots Game Default 1`] = `
 exports[`Storyshots Square Empty 1`] = `
 <button
   className="square"
+  data-e2e="square-undefined"
 />
 `;
 
 exports[`Storyshots Square Selected By Circle 1`] = `
 <button
   className="square"
+  data-e2e="square-undefined"
 >
   O
 </button>
@@ -684,6 +776,7 @@ exports[`Storyshots Square Selected By Circle 1`] = `
 exports[`Storyshots Square Selected By Cross 1`] = `
 <button
   className="square"
+  data-e2e="square-undefined"
 >
   X
 </button>
@@ -692,6 +785,7 @@ exports[`Storyshots Square Selected By Cross 1`] = `
 exports[`Storyshots Square Selected By Triangle 1`] = `
 <button
   className="square"
+  data-e2e="square-undefined"
 >
   △
 </button>
