@@ -12,8 +12,6 @@ Empty.args = {
   history: [],
   xIsNext: true,
   currentSquares: Array(9).fill(null),
-  handlePlay: () => null,
-  jumpTo: () => null,
 }
 
 export const XWin = Template.bind({})
@@ -51,8 +49,6 @@ XWin.args = {
     'X', null, 'O', 
     'X', null, null, 
   ],
-  handlePlay: () => null,
-  jumpTo: () => null,
 }
 
 export const OWin = Template.bind({})
@@ -95,8 +91,6 @@ OWin.args = {
     'X', null, 'O', 
     null, null, 'O', 
   ],
-  handlePlay: () => null,
-  jumpTo: () => null,
 }
 
 export const Draw = Template.bind({})
@@ -162,6 +156,4 @@ Draw.args = {
     'X', 'O', 'O', 
     'O', 'X', 'X'
   ],
-  handlePlay: () => null,
-  jumpTo: () => null,
 }
